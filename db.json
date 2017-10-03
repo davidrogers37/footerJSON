@@ -1,10 +1,11 @@
 {
  "footerObjects": [
+    {
     "type": "title",
     "selectorType": "account",
     "title": "MY ACCOUNT",
     "weight": "0",
-    "imageNamed": nil,
+    "imageNamed":"",
     "tintHexColor": "#FFFFFF",
     "backgroundHexColor": "#000000"
     },
@@ -13,7 +14,7 @@
     "selectorType": "bill",
     "title": "MY BILL",
     "weight": "0",
-    "imageNamed": nil,
+    "imageNamed":"",
     "tintHexColor": "#FFFFFF",
     "backgroundHexColor": "#000000"
     },
@@ -22,7 +23,7 @@
     "selectorType": "shop",
     "title": "SHOP",
     "weight": "0",
-    "imageNamed": nil,
+    "imageNamed":"",
     "tintHexColor": "#FFFFFF",
     "backgroundHexColor": "#000000"
     },
@@ -31,7 +32,7 @@
     "selectorType": "more",
     "title": "MORE",
     "weight": "0",
-    "imageNamed": nil,
+    "imageNamed":"",
     "tintHexColor": "#FFFFFF",
     "backgroundHexColor": "#000000"}
 ]
