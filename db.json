@@ -1,0 +1,38 @@
+{
+ "footerObjects": [
+    "type": "title",
+    "selectorType": "account",
+    "title": "MY ACCOUNT",
+    "weight": "0",
+    "imageNamed": nil,
+    "tintHexColor = "#FFFFFF",
+    "backgroundHexColor = "#000000"
+    },
+    {
+    "type": "title",
+    "selectorType": "bill",
+    "title": "MY BILL",
+    "weight": "0",
+    "imageNamed": nil,
+    "tintHexColor = "#FFFFFF",
+    "backgroundHexColor = "#000000"
+    },
+    {
+    "type": "title",
+    "selectorType": "shop",
+    "title": "SHOP",
+    "weight": "0",
+    "imageNamed": nil,
+    "tintHexColor = "#FFFFFF",
+    "backgroundHexColor = "#000000"
+    },
+    {
+    "type": "title",
+    "selectorType": "more",
+    "title": "MORE",
+    "weight": "0",
+    "imageNamed": nil,
+    "tintHexColor = "#FFFFFF",
+    "backgroundHexColor = "#000000"
+]
+}
