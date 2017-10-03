@@ -5,8 +5,8 @@
     "title": "MY ACCOUNT",
     "weight": "0",
     "imageNamed": nil,
-    "tintHexColor = "#FFFFFF",
-    "backgroundHexColor = "#000000"
+    "tintHexColor": "#FFFFFF",
+    "backgroundHexColor": "#000000"
     },
     {
     "type": "title",
@@ -14,8 +14,8 @@
     "title": "MY BILL",
     "weight": "0",
     "imageNamed": nil,
-    "tintHexColor = "#FFFFFF",
-    "backgroundHexColor = "#000000"
+    "tintHexColor": "#FFFFFF",
+    "backgroundHexColor": "#000000"
     },
     {
     "type": "title",
@@ -23,8 +23,8 @@
     "title": "SHOP",
     "weight": "0",
     "imageNamed": nil,
-    "tintHexColor = "#FFFFFF",
-    "backgroundHexColor = "#000000"
+    "tintHexColor": "#FFFFFF",
+    "backgroundHexColor": "#000000"
     },
     {
     "type": "title",
@@ -32,7 +32,7 @@
     "title": "MORE",
     "weight": "0",
     "imageNamed": nil,
-    "tintHexColor = "#FFFFFF",
-    "backgroundHexColor = "#000000"
+    "tintHexColor": "#FFFFFF",
+    "backgroundHexColor": "#000000"
 ]
 }
